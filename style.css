@@ -1,0 +1,20 @@
+#overall {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 80px;
+  background-color: aqua;
+  height: 350px;
+}
+body {
+  background-color: beige;
+}
+#ski {
+  align-self: flex-end;
+}
+.resume {
+  align-items: center;
+}
+h2 {
+  text-align: center;
+}
